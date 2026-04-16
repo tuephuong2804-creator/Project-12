@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Sentiment Analysis Classification Project
 
 ## Description
 This project performs sentiment classification using a Twitter dataset.
